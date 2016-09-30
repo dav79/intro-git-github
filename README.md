@@ -1,4 +1,5 @@
 # intro-git-github
+# This is the test to do a pull request
 
 This is an demo project used in the OpenClassrooms course on Git and GitHub.
 Course homepage:
